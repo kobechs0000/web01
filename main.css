@@ -2,7 +2,7 @@ body{
     margin:0;
 }
 #header{
-    background-color: #c00;
+    background-color: #000;
     padding:10px;
 }
 #header > h1{
